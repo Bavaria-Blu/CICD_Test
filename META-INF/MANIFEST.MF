@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 SAP-RuntimeProfile: iflmap
 Bundle-SymbolicName: CI_CD_Min_Anforderung; singleton:=true
 Bundle-Name: CI_CD_Min_Anforderung
-Bundle-Version: 1.0.1
+Bundle-Version: 1.0.2
 Bundle-ManifestVersion: 2
 Origin-Bundle-SymbolicName: CI_CD_Min_Anforderung
 SAP-NodeType: IFLMAP
